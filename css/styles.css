@@ -1,7 +1,22 @@
-.column1, .column2, .column3 {
+.column1, .column2, .column3{
   width: 30%;
   float: left;
   padding: 20px;
+}
+
+.column1 {
+  background-color: #ff6666;
+
+}
+
+.column2 {
+
+
+}
+
+.column3 {
+  background-color: #8484e1;
+
 }
 
 img {
